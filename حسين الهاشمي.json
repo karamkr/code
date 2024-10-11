@@ -16,6 +16,23 @@
           "telegram_url": "https://t.me/chemistry_channel"
         }
       ]
+    },
+    {
+      "name": "الأستاذ حسين الهاشمي",
+      "courses": [
+        {
+          "title": "الفصل الأول",
+          "download_url": "https://example.com/download1",
+          "drive_url": "https://drive.google.com/file/d/...",
+          "telegram_url": "https://t.me/chemistry_channel"
+        },
+        {
+          "title": "الفصل الثاني",
+          "download_url": "https://example.com/download2",
+          "drive_url": "https://drive.google.com/file/d/...",
+          "telegram_url": "https://t.me/chemistry_channel"
+        }
+      ]
     }
   ]
 }
