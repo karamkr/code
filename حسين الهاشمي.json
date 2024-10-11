@@ -7,33 +7,14 @@
           "title": "الفصل الأول",
           "download_url": "https://example.com/download1",
           "drive_url": "https://drive.google.com/file/d/...",
-          "telegram_url": "https://t.me/chemistry_channel"
-          "color": "#4A69BD" 
+          "telegram_url": "https://t.me/chemistry_channel",
+          "color": "#4A69BD"  // اللون الخاص بكل درس
         },
         {
           "title": "الفصل الثاني",
           "download_url": "https://example.com/download2",
           "drive_url": "https://drive.google.com/file/d/...",
-          "telegram_url": "https://t.me/chemistry_channel"
-          "color": "#6FA3EF"
-        }
-      ]
-    },
-    {
-      "name": "الأستاذ هاشم الغرباوي",
-      "courses": [
-        {
-          "title": "الفصل الأول",
-          "download_url": "https://example.com/download1",
-          "drive_url": "https://drive.google.com/file/d/...",
-          "telegram_url": "https://t.me/chemistry_channel"
-          "color": "#4A69BD" 
-        },
-        {
-          "title": "الفصل الثاني",
-          "download_url": "https://example.com/download2",
-          "drive_url": "https://drive.google.com/file/d/...",
-          "telegram_url": "https://t.me/chemistry_channel"
+          "telegram_url": "https://t.me/chemistry_channel",
           "color": "#6FA3EF"
         }
       ]
